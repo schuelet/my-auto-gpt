@@ -1,4 +1,4 @@
-from apikey import apikey
+#from apikey import apikey
 import os
 #os.environ['OPENAI_API_KEY']= apikey
 import streamlit as st
